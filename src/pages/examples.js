@@ -13,7 +13,7 @@ const examples = ({ data }) => {
 
   return (
     <Layout>
-      <h1>Hello from example page</h1>
+      <p>Hello from example page</p>
       <Header />
       <HeaderStatic />
       <h5>author: {author}</h5>
